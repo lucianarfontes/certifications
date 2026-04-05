@@ -1,10 +1,57 @@
 # Certifications
 
+
+![ERM](https://img.shields.io/badge/ERM_--_Enterprise_Risk_Management-E02424?style=for-the-badge) 
+![Internal Audit](https://img.shields.io/badge/Internal_Audit_%26_Controls-8B0000?style=for-the-badge) 
+![BCP](https://img.shields.io/badge/BCP_--_Business_Continuity_Plan-00838F?style=for-the-badge) 
+![Compliance](https://img.shields.io/badge/Regulatory_Compliance-006064?style=for-the-badge) 
+![Resilience](https://img.shields.io/badge/Operational_Resilience_Frameworks-00ACC1?style=for-the-badge) 
+![Cyber](https://img.shields.io/badge/Cyber_Resilience_Strategy-0097A7?style=for-the-badge) 
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) 
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FFD54F?style=for-the-badge) 
+![Storytelling](https://img.shields.io/badge/Data_Storytelling-FBC02D?style=for-the-badge) 
+![KPI](https://img.shields.io/badge/KPI_%26_KRI_Development-F9A825?style=for-the-badge) 
+![BPMN](https://img.shields.io/badge/BPMN--Process_Improvement-607D8B?style=for-the-badge) 
+![Crisis](https://img.shields.io/badge/Crisis_%26_Incident_Management-455A64?style=for-the-badge) 
+![Strategic Resilience](https://img.shields.io/badge/Strategic_Resilience-37474F?style=for-the-badge) 
+![Problem Solving](https://img.shields.io/badge/Analytical_Problem_Solving-2E7D32?style=for-the-badge) 
+![Stakeholder](https://img.shields.io/badge/Stakeholder_Engagement-388E3C?style=for-the-badge) 
+![Leadership](https://img.shields.io/badge/Cross--functional_Leadership-43A047?style=for-the-badge) 
+![Negotiation](https://img.shields.io/badge/Negotiation_%26_Influence-4CAF50?style=for-the-badge) 
+![Agile](https://img.shields.io/badge/Agile_Adaptability-81C784?style=for-the-badge)
+
+<br>
+
+Welcome to my professional credentials repository. This space showcases a curated collection of my academic degrees and specialised certifications in **Risk Management, Internal Audit, and Operational Resilience**.
+
+This repository centralises my journey of lifelong learning, bridging the **technical expertise (Hard Skills)** and **behavioural development (Soft Skills)** that underpin my professional practice in **Governance, Risk, and Data Intelligence**. By integrating academic foundations with hands-on certifications, this portfolio reflects my commitment to excellence and my multifaceted approach to modern GRC challenges.
+
+</div>
+
+## 👩🏻‍💻 About Me
+With an academic background in Business and Risk, I have delivered over 110 projects across Brazil and South America, navigating diverse regulatory landscapes. Having completed exchange programmes in London, I developed the cultural agility and communication skills necessary for global environments. I combine hard skills in Power BI and data-driven risk frameworks with soft skills like strategic decision-making and a proactive leadership style to drive organisational excellence in any global setting.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lucianarfontes">
+  <img src="https://img.shields.io/badge/LinkedIn-in/lucianarfontes-455A64?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp; &nbsp;
+<a href="mailto:lucianarfontes@outlook.com">
+  <img src="https://img.shields.io/badge/Email-lucianarfontes@outlook.com-455A64?style=flat&logo=Microsoft-Outlook&logoColor=white" />
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/lucianarfontes">
+  <img src="https://img.shields.io/badge/GitHub-lucianarfontes-455A64?style=flat&logo=github&logoColor=white" />
+</a>
+
+
+---
+
 ## 🗺️ Competency Map: Expertise & Specialisations
 
-----
 
-### 🏆 Strategic Certifications (Key Credentials)
+### &nbsp;&nbsp;&nbsp;&nbsp; 🏆 Strategic Certifications (Key Credentials)
 
 #### 🛡️ Risk Management & GRC
 | | | |
@@ -45,12 +92,8 @@
 | **Motivation in Organisations** | **Microsoft Office & PowerPoint** | |
 | _FGV Online_ | _Impacta Tecnologia_ | |
 
----
 
-
----
-
-### 📂 Knowledge Ecosystem (Complementary Skills)
+### &nbsp;&nbsp;&nbsp;&nbsp; 📂 Knowledge Ecosystem (Complementary Skills)
 *A detailed view of my academic foundation and linguistic development.*
 
 <details>
