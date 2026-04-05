@@ -47,54 +47,6 @@
 
 ---
 
----
-
-
-
-### 📂 Knowledge Ecosystem (Complementary Skills)
-*A comprehensive view of my continuous development, categorised by domain.*
-
-<details>
-  <summary><b>🏛️ Education & Academic Background</b></summary>
-
-| Qualification | Institution | Focus |
-| :--- | :--- | :--- |
-| **Postgraduate Degree** | Saint Paul Business School | GRC & Financial Audit |
-| **Executive Education** | London Academy | International Business & Risk |
-| **Bachelor’s Degree** | Nursing / Clinical Governance | Healthcare Risks & Safety |
-
-</details>
-
-<details>
-  <summary><b>🌍 Languages</b></summary>
-
-* **Portuguese:** Native.
-* **English:** Advanced / Business Proficient (International Academic Experience).
-* **Spanish:** Intermediate (Professional Experience in South America).
-
-</details>
-
-<details>
-  <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
-
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Analytics** | SQL, Snowflake, Power BI (DAX), Advanced Excel. |
-| **Processes** | BPMN 2.0 (Bizagi, Visio, Draw.io), Lean Seis Sigma. |
-| **Governance** | COSO, ISO 31000, NIST, MIT AI Risk Repository. |
-| **Audit** | Internal Controls, Whistleblowing Channels, Ethics Codes. |
-
-</details>
-
-<details>
-  <summary><b>🧠 Behavioural Development (Soft Skills)</b></summary>
-
-* **Leadership & Mentorship:** Experience leading consultant teams and managing stakeholders.
-* **Strategic Communication:** Ability to translate complex data into executive-level insights.
-* **Resilience & Adaptability:** Proven track record in high-complexity and regulated environments.
-* **Analytical Problem Solving:** Focused on identifying root causes and implementing sustainable mitigations.
-
-</details>
 
 ---
 
@@ -125,9 +77,6 @@
 </details>
 
 
-----
-
-
 <details>
   <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
 
@@ -141,6 +90,18 @@
 
 </details>
 
+
+<details>
+  <summary><b>🧠 Behavioural Development (Soft Skills)</b></summary>
+
+| Category | Skills & Development |
+| :--- | :--- |
+| **Leadership & People Management** | Entrepreneurial Mindset; Leadership Competencies; Effective Feedback; People Management; Leadership Training; Interpersonal Relationships; Effective Meetings; World of Hospitality |
+| **Communication & Influence** | Assertive Communication; Public Speaking & Oratory; Corporate Communication; Disney Model (Customer Experience Excellence); Effective Negotiation; Professional Writing |
+| **Self-Management** | Time Management; Focused Attention (Deep Work); Attitude Towards Change; Effective Time Management; Workplace Organisation |
+| **Cognitive & Methodological** | Creativity Principles & Techniques; Ethics in Decision Making; Logic & Creativity; Problem Solving |
+
+</details>
 
 
 
