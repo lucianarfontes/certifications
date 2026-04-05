@@ -128,6 +128,21 @@
 ----
 
 
+<details>
+  <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
+
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Risk Management & GRC** | Anti-Bribery & Corruption; Assurance; Audit I; Execution of Audit Processes; Risk Management; Independence Policy; Introduction to General Audit Processes; 2014 Anti-Corruption Law; Business Continuity Plan; Data Privacy & Protection (LGPD); Protection of Confidential Information; Understanding the SEC |
+| **Data & Analytics** | Microsoft Excel (Advanced Foundations); Arbutus Analyser Software |
+| **Operations & Processes** | Process Management; Lean Manufacturing; Microsoft PowerPoint; Microsoft Word; Occupational Health and Safety (OHS); Ishikawa Diagram Training |
+| **Project Management** | Introduction to Project Management; White Belt |
+| **Business Strategy** | Introductory Accounting; Accounting for Non-Accountants; Engagement Economics; Strategic Management for Results; Sustainability (Corporate & ESG) |
+
+</details>
+
+
+
 
 
 ### 🔗 Certification Verification
