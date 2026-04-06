@@ -52,7 +52,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 > *This section outlines my academic qualifications and linguistic expertise, demonstrating the depth of knowledge and international communication skills required for a global environment.*
 
-#### 🏛️ Education & Academic Background
+#### 🎓 Education & Academic Background
 * **MBA in Controllership, Audit and Compliance** – *Anhembi Morumbi*
 * **Specialisation in Cyber Crisis & Business Continuity** – *FGV (Fundação Getulio Vargas)*
 * **Specialisation in Auditing** – *FGV (Fundação Getulio Vargas)*
@@ -69,7 +69,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 ---
 
 
-### &nbsp;&nbsp; 🏆 Core Certifications & Strategic Specialisations
+### &nbsp;&nbsp; 💎 Core Certifications & Strategic Specialisations
 > *This section showcases my key qualifications and notable certifications, demonstrating my technical proficiency and expertise in core areas.*
 
 #### 🛡️ Risk Management & GRC
@@ -127,11 +127,11 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 | :--- | :--- |
 | _FIAP_ |  _FM2S_  |
 
-### &nbsp;&nbsp;📂 Professional Development & Supporting Skills
+### &nbsp;&nbsp;🧩 Professional Development & Supporting Skills
 > *A comprehensive selection of additional qualifications and workshops that broaden my professional profile and support my ongoing development.*
 
 <details>
-  <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
+  <summary><b>💻 Technical Competencies (Hard Skills)</b></summary>
 
 | Category | Completed Courses |
 | :--- | :--- |
@@ -159,7 +159,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 ------
 
-### 🔗 Certification Verification
+### ✔️ Certification Verification
 > Original certificates and digital credentials for all the qualifications listed are available upon request. For further verification or to discuss specific competencies in more detail, please feel free to contact me directly.
 
 <div align="center">
