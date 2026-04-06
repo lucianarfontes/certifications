@@ -132,17 +132,16 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 ### &nbsp;&nbsp;📂 Professional Development & Supporting Skills
 > *A comprehensive selection of additional qualifications and workshops that broaden my professional profile and support my ongoing development.*
 
-
 <details>
   <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
 
-| Category | Completed Courses|
+| Category | Completed Courses |
 | :--- | :--- |
-| **Risk Management & GRC** | Anti-Bribery & Corruption; Assurance; Audit I; Execution of Audit Processes; Risk Management; Independence Policy; Introduction to General Audit Processes; 2014 Anti-Corruption Law; Business Continuity Plan; Data Privacy & Protection (LGPD); Protection of Confidential Information; Understanding the SEC |
-| **Data & Analytics** | Microsoft Excel (Advanced Foundations); Arbutus Analyser Software |
-| **Operations & Processes** | Process Management; Lean Manufacturing; Microsoft PowerPoint; Microsoft Word; Occupational Health and Safety (OHS); Ishikawa Diagram Training |
-| **Project Management** | Introduction to Project Management; White Belt |
-| **Business Strategy** | Introductory Accounting; Accounting for Non-Accountants; Engagement Economics; Strategic Management for Results; Sustainability (Corporate & ESG) |
+| **Risk Management & GRC** | • Anti-Bribery & Corruption - _EY_  <br> • Assurance - _EY_   <br> • Audit I - _EY_   <br> • Execution of Audit Processes - _EY_  <br> • Risk Management - _KLABIN_   <br> • Independence Policy - _EY_   <br> • Introduction to General Audit Processes - _EY_   <br> • 2014 Anti-Corruption Law - _EY_   <br> • Business Continuity Plan - _KLABIN_    <br> • Data Privacy & Protection (LGPD) - _SENAI_   <br> • Protection of Confidential Information - _EY_  <br> • Understanding the SEC  - _EY_  |
+| **Data & Analytics** | • Microsoft Excel  - _CIEE / EY / Impacta Tecnologia_  <br> • Arbutus Analyser Software  - _ARBUTUS_  |
+| **Operations & Processes** | • Process Management  - _FM2S_  <br> • Lean Manufacturing - _labone_  <br> • Microsoft PowerPoint  - _CIEE / Impacta Tecnologia_   <br> • Microsoft Word  - _CIEE / Impacta Tecnologia_ <br> • Occupational Health and Safety (OHS) - _KLABIN_ <br> • Ishikawa Diagram Training - _labone_  |
+| **Project Management** | • Introduction to Project Management - _CIEE_  <br> • White Belt  - _FM2S / labone_  |
+| **Business Strategy** | • Introductory Accounting - _EY_ <br> • Accounting for Non-Accountants - _EY_  <br> • Engagement Economics - _EY_   <br> • Strategic Management for Results  - _EY_   <br> • Sustainability (Corporate & ESG) - _ACCOR / KLABIN_  <br> • Accounting - _IPED_ <br>  |
 
 </details>
 
@@ -152,10 +151,10 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 | Category | Completed Courses |
 | :--- | :--- |
-| **Leadership & People Management** | Entrepreneurial Mindset; Leadership Competencies; Effective Feedback; People Management; Leadership Training; Interpersonal Relationships; Effective Meetings; World of Hospitality |
-| **Communication & Influence** | Assertive Communication; Public Speaking & Oratory; Corporate Communication; Disney Model (Customer Experience Excellence); Effective Negotiation; Professional Writing |
-| **Self-Management** | Time Management; Focused Attention (Deep Work); Attitude Towards Change; Effective Time Management; Workplace Organisation |
-| **Cognitive & Methodological** | Creativity Principles & Techniques; Ethics in Decision Making; Logic & Creativity; Problem Solving |
+| **Leadership & People Management** | • Entrepreneurial Mindset - _CIEE_  <br> • Leadership Competencies - _Anhembi Morumbi (Laureate)_  <br> • Effective Feedback - _EY_  <br> • People Management - _Labone_  <br> • Leadership Training - _CONQUER_ <br> • Interpersonal Relationships - _CIEE_  <br> • Effective Meetings - _ACCOR_   <br> • World of Hospitality - _ACCOR_   |
+| **Communication & Influence** | • Assertive Communication - _FM2S_  <br> • Public Speaking & Oratory - _CONQUER_  <br> • Corporate Communication - _ACCOR_  <br> • Disney Model (Customer Experience Excellence) - _ACCOR_  <br> • Effective Negotiation - _ACCOR_  <br> • Professional Writing - _CIEE_  |
+| **Self-Management** | • Time Management - _CIEE_ <br> • Focused Attention (Deep Work) - _CIEE_  <br> • Attitude Towards Change - _ACCOR_  <br> • Effective Time Management - _ACCOR_  <br> • Workplace Organisation - _ACCOR_  |
+| **Cognitive & Methodological** | • Creativity Principles & Techniques - _FM2S_   <br> • Ethics in Decision Making - _EY_  <br> • Logic & Creativity - _CIEE_  <br> • Problem Solving  - _CIEE_  |
 
 </details>
 
