@@ -22,9 +22,7 @@
 
 <br>
 
-Welcome to my professional credentials repository. This space showcases a curated collection of my academic degrees and specialised certifications in **Risk Management, Internal Audit, and Operational Resilience**.
-
-This repository centralises my journey of lifelong learning, bridging the **technical expertise (Hard Skills)** and **behavioural development (Soft Skills)** that underpin my professional practice in **Governance, Risk, and Data Intelligence**. By integrating academic foundations with hands-on certifications, this portfolio reflects my commitment to excellence and my multifaceted approach to modern GRC challenges.
+Welcome to my professional credentials repository. This space showcases my academic degrees and specialised certifications in risk management, audit and operational resilience. It centralises my lifelong learning journey. It also bridges the synergy between my academic background and my hands-on certifications.
 
 </div>
 
