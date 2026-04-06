@@ -36,7 +36,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 </a>
 &nbsp; &nbsp;
 <a href="mailto:lucianarfontes@outlook.com">
-  <img src="https://img.shields.io/badge/Email-lucianarfontes@outlook.com-455A64?style=flat&logo=Microsoft-Outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-lucianarfontes@outlook.com-455A64?style=flat&logo=maildotru&logoColor=white" />
 </a>
 &nbsp; &nbsp;
 <a href="https://github.com/lucianarfontes">
