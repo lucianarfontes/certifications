@@ -50,9 +50,29 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 ## 🗺️ Competency Map: Expertise & Specialisations
 
+### &nbsp;&nbsp; 🏛️ Academic Foundation & Global Proficiency
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 🏆 Core Certifications & Strategic Specialisations
-*This section showcases my key qualifications and notable certifications, demonstrating my technical proficiency and expertise in core areas.*
+> *This section outlines my academic qualifications and linguistic expertise, demonstrating the depth of knowledge and international communication skills required for a global environment.*
+
+#### 🏛️ Education & Academic Background
+* **MBA in Controllership, Audit and Compliance** – *Anhembi Morumbi*
+* **Specialisation in Cyber Crisis & Business Continuity** – *FGV (Fundação Getulio Vargas)*
+* **Specialisation in Auditing** – *FGV (Fundação Getulio Vargas)*
+* **Bachelor’s Degree in Accounting** – *Anhembi Morumbi*
+* **Bachelor’s Degree in Business Administration** – *Universidade Presbiteriana Mackenzie*
+
+#### 🌍 Languages & International Experience
+* **English:** Fluent  
+  *Exchange Programmes in London – Hampstead School of English & IH London (International House School)*
+* **Spanish:** Intermediate  
+  *Spanish for Business – Hispania Línguas Latinas | Professional experience in South America*
+* **Portuguese:** Native Speaker
+
+---
+
+
+### &nbsp;&nbsp; 🏆 Core Certifications & Strategic Specialisations
+> *This section showcases my key qualifications and notable certifications, demonstrating my technical proficiency and expertise in core areas.*
 
 #### 🛡️ Risk Management & GRC
 
@@ -109,37 +129,14 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 | :--- | :--- |
 | _FIAP_ |  _FM2S_  |
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 📂 Professional Development & Supporting Skills
-*It also showcases additional qualifications and workshops that broaden my professional profile and support my ongoing development.*
-
-<details>
-  <summary><b>🏛️ Education & Academic Background</b></summary>
-
-* **MBA in Controllership, Audit and Compliance** - _Anhembi Morumbi_
-* **Specialisation in Cyber Crisis & Business Continuity** - _FGV (Fundação Getulio Vargas)_
-* **Specialisation in Auditing** - _FGV (Fundação Getulio Vargas)_
-* **Bachelor’s Degree in Accounting** - _Anhembi Morumbi_
-* **Bachelor’s Degree in Business Administration** - _Mackenzie Presbyterian University_
-
-</details>
-
-<details>
-  <summary><b>🌍 Languages & International Experience</b></summary>
-
-* **English:** Fluent  
- _Exchange Programmes in London – Hampstead School of English & IH London (International House School)_
-* **Spanish:** Intermediate  
- _Spanish for Business – Hispania Línguas Latinas_  
- _Professional experience in South America_
-* **Portuguese:** Native Speaker
-
-</details>
+### &nbsp;&nbsp;📂 Professional Development & Supporting Skills
+> *A comprehensive selection of additional qualifications and workshops that broaden my professional profile and support my ongoing development.*
 
 
 <details>
   <summary><b>🛠️ Technical Competencies (Hard Skills)</b></summary>
 
-| Category | Tools & Frameworks |
+| Category | Completed Courses|
 | :--- | :--- |
 | **Risk Management & GRC** | Anti-Bribery & Corruption; Assurance; Audit I; Execution of Audit Processes; Risk Management; Independence Policy; Introduction to General Audit Processes; 2014 Anti-Corruption Law; Business Continuity Plan; Data Privacy & Protection (LGPD); Protection of Confidential Information; Understanding the SEC |
 | **Data & Analytics** | Microsoft Excel (Advanced Foundations); Arbutus Analyser Software |
@@ -153,7 +150,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 <details>
   <summary><b>🧠 Behavioural Development (Soft Skills)</b></summary>
 
-| Category | Skills & Development |
+| Category | Completed Courses |
 | :--- | :--- |
 | **Leadership & People Management** | Entrepreneurial Mindset; Leadership Competencies; Effective Feedback; People Management; Leadership Training; Interpersonal Relationships; Effective Meetings; World of Hospitality |
 | **Communication & Influence** | Assertive Communication; Public Speaking & Oratory; Corporate Communication; Disney Model (Customer Experience Excellence); Effective Negotiation; Professional Writing |
