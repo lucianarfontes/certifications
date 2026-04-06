@@ -162,4 +162,13 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 
 ### 🔗 Certification Verification
-> All credentials listed as "Key" have their respective digital badges or certificates stored in the `certificates/` folder of this repository for verification purposes.
+> Original certificates and digital credentials for all the qualifications listed are available upon request. For further verification or to discuss specific competencies in more detail, please feel free to contact me via LinkedIn or email.
+
+<div align="center">
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-Q1_2026-blue?style=flat-square)
+
+</div>
+
+---
+<p align="center">© 2026 Luciana Fontes. All rights reserved.</p>
