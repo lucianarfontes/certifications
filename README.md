@@ -51,57 +51,73 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 ## 🗺️ Competency Map: Expertise & Specialisations
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 🏆 Strategic Certifications (Key Credentials)
+### &nbsp;&nbsp;&nbsp;&nbsp; 🏆 Core Certifications & Strategic Specialisations
+*This section showcases my key qualifications and notable certifications, demonstrating my technical proficiency and expertise in core areas.*
 
 #### 🛡️ Risk Management & GRC
-| | | |
-| :--- | :--- | :--- |
+
 | **Cybersecurity - NIST CSF 2.0 Essentials** | **Information Security - ISO/IEC 27001** | **Business Continuity - ISO/IEC 22301** |
+| :--- | :--- | :--- |
 | _IDESP_ | _IDESP_ | _IDESP_ |
-| **AI Governance - ISO/IEC 42001** | **Project Risk Management** | **Yellow Belt** |
-| _IDESP_ | _Laureate_ | _FM2S_ |
+
+| **AI Governance - ISO/IEC 42001**  | **Project Risk Management**  | 
+| :--- | :--- | 
+| _IDESP_ | _Laureate_ |
+
 
 #### 🤖 Artificial Intelligence & Big Data
-| | | |
-| :--- | :--- | :--- |
+
 | **Big Data and AI Applications** | **AI: Exploring Generative AI** | **Productivity: Routine with AI** |
+| :--- | :--- | :--- |
 | _FIA Business School_ | _Alura_ | _Alura_ |
-| **Copywriting: Persuasive Texts with AI** | **Excel with AI: Mapping Processes** | **Knowledge Management with AI** |
-| _Alura_ | _Alura_ | _Alura_ |
-| **Learning with AI: ChatGPT** | | |
-| _Alura_ | | |
+
+| **Copywriting: Persuasive Texts with AI** | **Excel with AI: Mapping Processes** |
+| :--- | :--- | 
+| _Alura_ | _Alura_ |
+
+| **Knowledge Management with AI** | **Learning with AI: ChatGPT** |
+| :--- | :--- | 
+| _Alura_ | _Alura_ |
+
 
 #### 📊 Data & Analytics
-| | | |
-| :--- | :--- | :--- |
+
 | **Microsoft Power BI** | **Data Science** | **Business Intelligence (BI)** |
+| :--- | :--- | :--- |
 | _Impacta / Data Science Academy_ | _FGV Online_ | _FIAP_ |
 
-| | | |
-| :--- | :--- | :--- |
 | **Python Fundamentals for Data Analysis** | **Excel: Data Analysis and Dashboards** | **Microsoft Excel** |
+| :--- | :--- | :--- |
 | _Data Science Academy_ | _Impacta Tecnologia_ | _Impacta Tecnologia_ |
 
+
 #### ⚙️ Operations & Professional Skills
-| | | |
+
+| **IELTS for UKVI General Training** | **Microsoft Office** | **Microsoft PowerPoint** |
 | :--- | :--- | :--- |
-| **IELTS for UKVI General Training** | **Professional Public Speaking** | **Emotional Intelligence** |
-| _British Council_ | _Conquer_ | _Conquer_ |
-| **Negotiation & Influence** | **Productivity and Time Management** | **Design Thinking** |
-| _Conquer_ | _Conquer_ | _FIAP_ |
-| **Motivation in Organisations** | **Microsoft Office & PowerPoint** | |
-| _FGV Online_ | _Impacta Tecnologia_ | |
+| _British Council_ | _Impacta Tecnologia_ | _Impacta Tecnologia_ |
 
+| **Motivation in Organisations** | **Professional Public Speaking** | **Emotional Intelligence** |
+| :--- | :--- | :--- |
+| _FGV Online_ | _Conquer_ | _Conquer_ |
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 📂 Knowledge Ecosystem (Complementary Skills)
-*A detailed view of my academic foundation and linguistic development.*
+| **Negotiation & Influence** | **Productivity and Time Management** |
+| :--- | :--- |
+| _Conquer_ | _Conquer_ |
+
+| **Design Thinking** | **Yellow Belt** |
+| :--- | :--- |
+| _FIAP_ |  _FM2S_  |
+
+### &nbsp;&nbsp;&nbsp;&nbsp; 📂 Professional Development & Supporting Skills
+*It also showcases additional qualifications and workshops that broaden my professional profile and support my ongoing development.*
 
 <details>
   <summary><b>🏛️ Education & Academic Background</b></summary>
 
 * **MBA in Controllership, Audit and Compliance** - _Anhembi Morumbi_
+* **Specialisation in Cyber Crisis & Business Continuity** - _FGV (Fundação Getulio Vargas)_
 * **Specialisation in Auditing** - _FGV (Fundação Getulio Vargas)_
-* **Cyber Crisis & Business Continuity** - _FGV (Fundação Getulio Vargas)_
 * **Bachelor’s Degree in Accounting** - _Anhembi Morumbi_
 * **Bachelor’s Degree in Business Administration** - _Mackenzie Presbyterian University_
 
