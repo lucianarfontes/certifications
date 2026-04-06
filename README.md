@@ -160,7 +160,7 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 ------
 
 ### 🔗 Certification Verification
-> Original certificates and digital credentials for all the qualifications listed are available upon request. For further verification or to discuss specific competencies in more detail, please feel free to contact me via LinkedIn or email.
+> Original certificates and digital credentials for all the qualifications listed are available upon request. For further verification or to discuss specific competencies in more detail, please feel free to contact me directly.
 
 <div align="center">
 
