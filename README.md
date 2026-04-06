@@ -44,8 +44,6 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 </a>
 
 
----
-
 ## 🗺️ Competency Map: Expertise & Specialisations
 
 ### &nbsp;&nbsp; 🏛️ Academic Foundation & Global Proficiency
@@ -65,8 +63,6 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 * **Spanish:** Intermediate  
   *Spanish for Business – Hispania Línguas Latinas | Professional experience in South America*
 * **Portuguese:** Native Speaker
-
----
 
 
 ### &nbsp;&nbsp; 💎 Core Certifications & Strategic Specialisations
@@ -156,8 +152,6 @@ With an academic background in Business and Risk, I have delivered over 110 proj
 
 </details>
 
-
-------
 
 ### ✔️ Certification Verification
 > Original certificates and digital credentials for all the qualifications listed are available upon request. For further verification or to discuss specific competencies in more detail, please feel free to contact me directly.
